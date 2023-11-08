@@ -56,7 +56,6 @@ async function searchImages() {
         searchResultEl.appendChild(imageWraper);
       }
       
-
     page++;
 
     if (page > 1) {
